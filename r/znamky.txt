@@ -1,0 +1,12 @@
+Zdenka Pekná
+1 2 3
+Anka Milá
+2 1 1
+Stanko Šikovný
+5 1 1
+Katka Múdra
+3 2 1 1
+Peter Veľký
+1 2 1 1 2
+Palko Bohatý
+2 1 1 1

@@ -1,0 +1,1 @@
+tieto ulohy nam dala masarykova minuly seminar, ze budu medzi ulohami, ktore si budemem moct vypocitat, nemam zadania, ale z uloh si vies cca domysliet zadania

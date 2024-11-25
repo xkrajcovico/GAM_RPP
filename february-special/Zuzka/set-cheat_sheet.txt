@@ -1,0 +1,20 @@
+s = set()
+s = set(range(3))   #{0,1,2}
+len(s)
+s.add(element)
+s.update(other_set)
+s.remove(element)
+s.discard(element)
+s.clear()
+s.pop()
+
+s.union()
+s.intersection()
+s.issubset()
+
+a | b		zjednotenie
+a & b		prienik
+a – b		rozdiel
+a ^ b		symetrický rozdiel – xor
+a < b		podmnožiny
+
